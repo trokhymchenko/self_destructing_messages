@@ -1,0 +1,3 @@
+project=self_destructing_messages
+test=rspec
+template=erb

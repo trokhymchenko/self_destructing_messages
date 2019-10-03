@@ -1,0 +1,2 @@
+module SelfDestructingMessages
+end
